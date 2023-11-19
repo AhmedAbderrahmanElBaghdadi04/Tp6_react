@@ -2,6 +2,7 @@ import React, {useContext} from 'react'
 import FrenchFlag from '../../assets/france.svg'
 import SpanishFlag from '../../assets/spain.svg'
 import EnglishFlag from '../../assets/united-kingdom.svg'
+import GermanFlag from '../../assets/germany-svgrepo-com.svg'
 import './ToggleLangs.css'
 import {Context} from '../../context/langContext'
 
@@ -15,6 +16,7 @@ export default function ToggleLangs() {
             <img onClick={() => setLang('FR')} src={FrenchFlag} />
             <img onClick={() => setLang('EN')} src={EnglishFlag} />
             <img onClick={() => setLang('ES')} src={SpanishFlag} />
+            <img onClick={() => setLang('DE')} src={GermanFlag} />
 
         </div>
     )

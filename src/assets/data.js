@@ -11,6 +11,10 @@ const traductions = {
     title: "Hola y bienvenido al sitio.",
     txt: "Descubra nuestras características y servicios!",
   },
+  DE: {
+    title: "Hallo und willkommen auf der Seite.",
+    txt: "Entdecken Sie unsere Funktionen und Services!"
+  }
 };
 
 export default traductions;
