@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Tp6_react/static/css/main.b106f609.css",
-    "main.js": "/Tp6_react/static/js/main.78fe2c25.js",
+    "main.css": "/Tp6_react/static/css/main.4d8bd25f.css",
+    "main.js": "/Tp6_react/static/js/main.9ce80e00.js",
     "static/media/united-kingdom.svg": "/Tp6_react/static/media/united-kingdom.2d19fed4fb288f7b8a8591bbe3b70429.svg",
+    "static/media/germany-svgrepo-com.svg": "/Tp6_react/static/media/germany-svgrepo-com.1b7cd4e46de682867b7c592e3cf8e55b.svg",
     "static/media/spain.svg": "/Tp6_react/static/media/spain.32e1e4891a5c1d5ce79f04ec7671d151.svg",
     "static/media/france.svg": "/Tp6_react/static/media/france.40c79af5ce5231775ae018679c075255.svg",
     "index.html": "/Tp6_react/index.html",
-    "main.b106f609.css.map": "/Tp6_react/static/css/main.b106f609.css.map",
-    "main.78fe2c25.js.map": "/Tp6_react/static/js/main.78fe2c25.js.map"
+    "main.4d8bd25f.css.map": "/Tp6_react/static/css/main.4d8bd25f.css.map",
+    "main.9ce80e00.js.map": "/Tp6_react/static/js/main.9ce80e00.js.map"
   },
   "entrypoints": [
-    "static/css/main.b106f609.css",
-    "static/js/main.78fe2c25.js"
+    "static/css/main.4d8bd25f.css",
+    "static/js/main.9ce80e00.js"
   ]
 }
